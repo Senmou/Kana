@@ -12,6 +12,7 @@
 !Assets/2_Prefabs
 !Assets/3_Materials
 !Assets/Scenes
+!Assets/Web
 
 # Inhalte dieser Ordner erlauben
 !Assets/1_Scripts/**
