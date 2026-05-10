@@ -1,22 +1,13 @@
 # Alles ignorieren
 *
 
-# .gitignore selbst behalten
+# gitignore behalten
 !.gitignore
 
-# Assets-Ordner erlauben
-!Assets/
-
-# Bestimmte Ordner erlauben
-!Assets/1_Scripts
-!Assets/2_Prefabs
-!Assets/3_Materials
-!Assets/Scenes
-!Assets/Web
-
-# Inhalte dieser Ordner erlauben
-!Assets/1_Scripts/**
-!Assets/2_Prefabs/**
-!Assets/3_Materials/**
-!Assets/Scenes/**
-!Assets/Web/**
+# Unity WebGL Build erlauben
+!index.html
+!Build/
+!Build/**
+!TemplateData/
+!TemplateData/**
+!README.md
